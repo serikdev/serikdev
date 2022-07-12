@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%282378&lines=Welcome;My+name+is+Serdar;I+am+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%453FB3&lines=Welcome;My+name+is+Serdar;I+am+developer)](https://git.io/typing-svg)
 ##
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SAgamyradov&show_icons=true&bg_color=281449&text_color=FEF6FF)](https://github.com/sagamyradov/github-readme-stats)
 ## Skills and Tools
