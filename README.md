@@ -13,7 +13,7 @@
 
 ## Follow Me
 [![Instagram](https://img.shields.io/badge/Instagram-010812?style=for-the-badge&logo=instagram&logoColor=A6126B)](https://www.instagram.com/serdar_agam))
-[![Instagram](https://img.shields.io/badge/Telegram-010812?style=for-the-badge&logo=telegram&logoColor=118CB0)](https://www.telegram.com/SerdarAgamyradow)
+[![Instagram](https://img.shields.io/badge/Telegram-010812?style=for-the-badge&logo=telegram&logoColor=118CB0)](https://www.telegram.com/serdar_agam)
 [![Instagram](https://img.shields.io/badge/Gmail-010812?style=for-the-badge&logo=gmail&logoColor=FA0000)](https://www.agamyradowserdar777@gmail.com)
 
 <!--
