@@ -7,6 +7,7 @@
 [![wakatime](https://wakatime.com/badge/user/1b409bcd-8e07-4a9a-8bb3-8fa291335500.svg)](https://wakatime.com/@1b409bcd-8e07-4a9a-8bb3-8fa291335500)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAgamyradov&theme=chartreuse-dark&hide_border=true)](https://github.com/SAgamyradov)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SAgamyradov)
 
 
 
