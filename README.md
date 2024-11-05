@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2326F711&lines=Welcome;My+name+is+Serdar;I+am+developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2326F711&lines=Welcome;My+name+is+Serdar;I+am+Software+developer)](https://git.io/typing-svg)
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
 
